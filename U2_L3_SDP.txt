@@ -1,0 +1,7 @@
+1. place_token() maybe?
+2. I thought of having them send something like "x, y" for the position
+3. 
+   a. is_winner() I'm guessing
+   b. I don't know if it needs any
+4. A function for giving the input to the game, maybe one to take input
+5. A list of possible winning combinations maybe?
